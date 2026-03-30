@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
 
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
@@ -19,7 +19,7 @@
 		<Name>Yellowstone</Name>
 		<Phone>307-344-7381</Phone>
 		<Phone>307-344-2107</Phone>
-		<Address NearestAirport="Bozeman">
+		<Address>
 			<Number>2</Number>
 			<Street>Officers Row</Street>
 			<City>Yellowstone National Park</City>
@@ -42,6 +42,7 @@
 
 	<NationalPark Rating="4.9">
 		<Name>Zion</Name>
+		<Name>Zion National Park</Name>
 		<Phone>435-772-3256</Phone>
 		<Address NearestAirport="Las Vegas">
 			<Number>1</Number>
@@ -54,7 +55,6 @@
 
 	<NationalPark>
 		<Name>Rocky Mountain</Name>
-		<Phone>970-586-1206</Phone>
 		<Address NearestAirport="Denver">
 			<Number>1000</Number>
 			<Street>US Highway 36</Street>
@@ -133,7 +133,6 @@
 			<City>Moab</City>
 			<State>UT</State>
 			<Zip>84532</Zip>
-		</Address>
-	</NationalPark>
+		</NationalPark>
 
-</NationalParks>
+</NationalPark>
